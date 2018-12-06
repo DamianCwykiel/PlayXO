@@ -3,7 +3,7 @@ object Form1: TForm1
   Top = 181
   Width = 650
   Height = 426
-  Caption = 'Tic Tac Toe v 1.0'
+  Caption = 'PlayXO v1.0.0'
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
